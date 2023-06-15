@@ -1,0 +1,22 @@
+{
+  "courses": [
+    {
+      "courseid": "1",
+      "name": "javascript",
+      "duration": "5hrs",
+      "mentor": "sainadh"
+    },
+    {
+      "courseid": "2",
+      "name": "html",
+      "duration": "5hrs",
+      "mentor": "sainadh"
+    },
+    {
+      "courseid": "3",
+      "name": "css",
+      "duration": "5hrs",
+      "mentor": "sainadh"
+    }
+  ]
+}
